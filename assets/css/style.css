@@ -236,3 +236,7 @@
   .contact-info a {
     color: #fce138;
   }
+  .hero-secondary {
+    background-color: black;
+    color: red;
+  }
